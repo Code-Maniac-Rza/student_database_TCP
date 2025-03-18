@@ -26,6 +26,7 @@ This project implements a student management system with a client-server archite
 gcc -o server TCP_server.c student.c course.c parser.c -lpthread
 gcc -o client TCP_client.c parser.c
 ```
+Alternatively we can also use the Makefile
 
 #### Running the Server:
 ```bash
