@@ -1,0 +1,6 @@
+Received request: ADD_STUDENT 1 ww 8.00 2
+Sent response: Operation successful
+Received request: ADD_STUDENT 2 Pari 8.80 6
+Sent response: Operation successful
+Received request: DELETE_STUDENT 1
+Sent response: Operation successful
